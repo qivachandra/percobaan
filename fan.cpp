@@ -30,7 +30,6 @@ SOURCE CODE :
 */
 #include <SFE_BMP180.h>
 #include <Wire.h>
-#include <master>
 
 SFE_BMP180 sensorBMP;// mmbuat onject untuk sensor
 #define ALTITUDE 1051;//ketinggian bandung
